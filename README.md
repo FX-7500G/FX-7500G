@@ -1,13 +1,29 @@
-## Обо мне
-- Junior DevOps со стажем в 1.5 года
-- Интересуют
+## Hello there!👋
 
-Технологический стек:    
-### [![OnlyOffice](https://img.shields.io/badge/-0d1117?style=flat-square&logo=onlyoffice&logoColor=white)](https://www.onlyoffice.com/) Infrastructure & Virtualization
-[![Proxmox](https://img.shields.io/badge/Proxmox_VE-181717?style=flat-square&logo=proxmox&logoColor=E57000)](https://www.proxmox.com/) [![Vagrant](https://img.shields.io/badge/Vagrant-181717?style=flat-square&logo=vagrant&logoColor=1868F2)](https://www.vagrantup.com/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-181717?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/) [![CentOS](https://img.shields.io/badge/CentOS-181717?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
+```yaml
+name: Denis Vinchugov
+role: DevOps Engineer
+origin: Started with sysadmin basics (bash, networking, Linux) then moved into DevOps architecture
+focus:
+  - Kubernetes internals & automation
+  - GitOps workflows
+learning: English 
+location: Russia
+```
+
+---
+
+## 🔧 Technologies & Stack:   
+
+### [![Proxmox](https://img.shields.io/badge/-0d1117?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/) Infrastructure & Virtualization
+[![Proxmox](https://img.shields.io/badge/Proxmox_VE-181717?style=flat-square&logo=proxmox&logoColor=E57000)](https://www.proxmox.com/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-181717?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/) [![CentOS](https://img.shields.io/badge/CentOS-181717?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
 
 ### [![Linux Containers](https://img.shields.io/badge/-0d1117?style=flat-square&logo=linuxcontainers&logoColor=white)](https://linuxcontainers.org/) Containers & Orchestration
-[![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/) [![Ansible](https://img.shields.io/badge/Ansible-181717?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/)
+[![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/) 
+
+### [![Ansible](https://img.shields.io/badge/-0d1117?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/) Infrastructure as Code
+[![Ansible](https://img.shields.io/badge/Ansible-181717?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/) 
+[![Vagrant](https://img.shields.io/badge/Vagrant-181717?style=flat-square&logo=vagrant&logoColor=1868F2)](https://www.vagrantup.com/)
 
 ### [![Git](https://img.shields.io/badge/-0d1117?style=flat-square&logo=git&logoColor=F05032)](https://git-scm.com/) CI/CD & Git
 [![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=F05032)](https://git-scm.com/) [![GitLab](https://img.shields.io/badge/GitLab_CI-181717?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://about.gitlab.com/) [![ArgoCD](https://img.shields.io/badge/Argo_CD-181717?style=flat-square&logo=argo-cd&logoColor=white)](https://argoproj.github.io/cd/)
@@ -19,10 +35,12 @@
 [![Prometheus](https://img.shields.io/badge/Prometheus-181717?style=flat-square&logo=prometheus&logoColor=E6522C)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-181717?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/) [![ELK](https://img.shields.io/badge/ELK_Stack-181717?style=flat-square&logo=elastic-stack&logoColor=005571)](https://www.elastic.co/elastic-stack) [![Fluentd](https://img.shields.io/badge/Fluentd-181717?style=flat-square&logo=fluentd&logoColor=00D3FF)](https://www.fluentd.org/)
 
 ---
-##  Контактная информация:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FX_7500G)  
-Telegram: @FX_7500G    
-Email: alekcwdsa@gmail.com    
+### 📂 Projects
+ 
+- [**DevOps Troubleshooting**](https://github.com/FX-7500G/sturdy-working-man) — real-world cases: K8s, CNI, CI/CD, networking, monitoring
 
-## Проекты
-- [DevOps Troubleshooting](https://github.com/FX-7500G/DevOps-troubleshooting) — мой набор кейсов и гайдов по решению проблем CI/CD инструментария
+### 📫 Contact me
+
+[![Gmail](https://img.shields.io/badge/alekcwdsa@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alekcwdsa@gmail.com)
+[![Telegram](https://img.shields.io/badge/@FX_7500G-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/FX_7500G)
+[![GitHub](https://img.shields.io/badge/FX--7500G-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FX-7500G)
