@@ -46,6 +46,6 @@ location: Russia
 
 ### 📫 Contact me
 
-[![Gmail](https://img.shields.io/badge/alekcwdsa@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alekcwdsa@gmail.com)
+[![Gmail](https://img.shields.io/badge/vinchugov.dvops@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinchugov.dvops@gmail.com)
 [![Telegram](https://img.shields.io/badge/@FX_7500G-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/FX_7500G)
 [![GitHub](https://img.shields.io/badge/FX--7500G-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FX-7500G)
