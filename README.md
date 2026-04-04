@@ -3,11 +3,15 @@
 ```yaml
 name: Denis Vinchugov
 role: DevOps Engineer
-origin: Started with sysadmin basics (bash, networking, Linux) then moved into DevOps architecture
+origin: Started with sysadmin basics (bash, networking, Linux), then moved into DevOps architecture
 focus:
   - Kubernetes internals & automation
   - GitOps workflows
 learning: English 
+considering: CKA certification
+interests:
+  - Infrastructure optimization
+  - Low-level networking
 location: Russia
 ```
 
