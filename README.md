@@ -10,7 +10,9 @@ focus:
   - Kubernetes internals & automation
   - GitOps workflows
 learning: English 
-considering: CKA certification
+considering:
+  - CKA certification
+  - CKS certification
 interests:
   - Infrastructure optimization
   - Low-level networking
